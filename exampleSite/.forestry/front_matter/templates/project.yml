@@ -3,12 +3,15 @@ label: Project
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: LingDao
+  label: LingDao
+  description: Massage TuiNa, méditation et dessin libre
+  hidden: true
 - type: text
-  name: description
-  label: description
-  description: this is meta description
+  name: Massage_TuiNa__meditation_et_dessin_libre
+  description: LingDao propose du massage TuiNa inspiré des principes de la médecine
+    traditionnelle chinoise et un atelier de méditation et dessin libre
+  label: Massage TuiNa, méditation et dessin libre
 - type: file
   name: image
   label: image
